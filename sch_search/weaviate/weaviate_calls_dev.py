@@ -8,7 +8,6 @@ Maintainer: Sarah Bhaskaran
 """
 import weaviate
 
-PASSWORD = "SCHOLARHUB_WEAVIATE_PASSWORD"
 
 def get_pass():
     """
