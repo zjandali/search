@@ -196,6 +196,4 @@ This repository also includes Python scripts for parsing videos, CSV files, and 
 - `del_resource.py`: Functions for deleting resources.
 - `query.py`: Script for querying data.
 
----
 
-# search
