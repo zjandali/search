@@ -3,7 +3,7 @@
 
 # Academic Search
 
-This repository contains the a Search project, designed to run a local web service for querying and managing academic resources. Follow the instructions below to get started with setup, running the application, and using the API.
+This repository contains the a Search project, designed to run a local web service for querying and managing academic resources using weaviate vector db. Follow the instructions below to get started with setup, running the application, and using the API.
 
 ## Setup
 
