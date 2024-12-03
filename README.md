@@ -22,7 +22,7 @@ If the above command does not work, install the required packages individually u
 To ensure the imports from this project work correctly, navigate to the `scholarhub-search` directory and run:
 
 ```bash
-cd scholarhub-search
+cd sch-search
 pip install -e .
 ```
 
