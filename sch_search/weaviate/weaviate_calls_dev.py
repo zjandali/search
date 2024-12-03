@@ -1,9 +1,4 @@
-"""
-Will be password protected. Will allow dev to set up cluster, create schema, and
-forward any weaviate command to the cluster
-{License_info}
-Scholarhub, Inc. 2021
-"""
+
 import weaviate
 
 
