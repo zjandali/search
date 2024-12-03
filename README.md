@@ -40,7 +40,7 @@ The app will run locally at `localhost:3000`.
 
 ### Important: API Password Requirement
 
-For all API calls, you **MUST INCLUDE** a password field in the JSON request body. You can find the required password in the `sch_search/weaviate/weaviate_calls_dev.py` file under the variable `PASSWORD`.
+For all API calls, you **MUST INCLUDE** an api key from Weaviate: https://weaviate.io/developers/wcs/connect
 
 ---
 
