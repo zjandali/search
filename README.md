@@ -1,4 +1,3 @@
-Here’s a README file based on the setup and information you provided:
 
 ---
 
