@@ -2,9 +2,9 @@ Here’s a README file based on the setup and information you provided:
 
 ---
 
-# ScholarHub Search
+# Academic Search
 
-This repository contains the ScholarHub Search project, designed to run a local web service for querying and managing academic resources. Follow the instructions below to get started with setup, running the application, and using the API.
+This repository contains the a Search project, designed to run a local web service for querying and managing academic resources. Follow the instructions below to get started with setup, running the application, and using the API.
 
 ## Setup
 
