@@ -1,5 +1,4 @@
 """
-{Description}
 Take any dev commands from resource handler and forward them to a database, currently
 to weaviate through weaviate/weaviate_calls.py.
 """
