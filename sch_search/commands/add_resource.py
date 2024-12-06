@@ -1,5 +1,4 @@
 """"
-{Description}
 Takes a link, decides what kind of resource, and passes it through the appropriate
 parser before adding it to the database, currently weaviate cluster,
 through weaviate/weaviate_calls.py
