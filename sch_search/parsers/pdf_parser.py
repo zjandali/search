@@ -2,11 +2,6 @@
 # {Description}
 # Download pdf by link, convert it to text, split into paragraphs.
 # ############################################
-# {License_info}
-# Scholarhub, Inc. 2021
-# ############################################
-
-
 
 from io import StringIO
 import os
