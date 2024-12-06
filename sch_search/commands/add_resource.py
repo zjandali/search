@@ -3,8 +3,6 @@
 Takes a link, decides what kind of resource, and passes it through the appropriate
 parser before adding it to the database, currently weaviate cluster,
 through weaviate/weaviate_calls.py
-{License_info}
-Scholarhub, Inc. 2021
 """
 from sch_search.parsers.pdf_parser import parse_pdf
 from sch_search.parsers.video_parser import parse_video
