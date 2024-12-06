@@ -1,5 +1,5 @@
 """
-Starts scholarhub_search application
+Starts sch_search application
 """
 from flask import jsonify, Flask, request
 from sch_search.commands import add_resource, del_resource
