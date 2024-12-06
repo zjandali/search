@@ -1,10 +1,3 @@
-"""
-{Description}
-Download video (or get from cached), parse video and transcript, split into slides.
-{License_info}
-Scholarhub, Inc. 2021
-
-"""
 
 import os
 import numpy as np
