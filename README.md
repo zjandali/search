@@ -19,7 +19,7 @@ If the above command does not work, install the required packages individually u
 
 ### Install Project Locally
 
-To ensure the imports from this project work correctly, navigate to the `scholarhub-search` directory and run:
+To ensure the imports from this project work correctly, navigate to the `sch-search` directory and run:
 
 ```bash
 cd sch-search
