@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "semantic-data-search"
+version = "0.1.0"
+description = "A web service for asking questions, querying, and managing resources on a variety of formats using weaviate vector db"
+authors = ["Zain Jandali <yzjandali@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+flask = "2.0.1"
+weaviate-client = "~2.4.0"
+pandas = "^2.2.3"
+weaviate = "^0.1.2"
+transformers = "^4.47.1"
+torch = "^2.5.1"
+werkzeug = "2.0.1"  # Pin to exact version that works with Flask 2.0.1
+scikit-image = "^0.25.0"
+scikit-video = "^1.1.11"
+youtube-transcript-api = "^0.6.3"
+pytube = "^15.0.0"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
