@@ -4,33 +4,12 @@
 
 This repository contains an Search, designed to run a local web service for asking questions, querying, and managing academic resources using weaviate vector db. Follow the instructions below to get started with setup, running the application, and using the API.
 
-## Setup
-
-### Install Python Packages
-
-To install the required Python packages, use the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-If the above command does not work, install the required packages individually using pip.
-
-### Install Project Locally
-
-To ensure the imports from this project work correctly, navigate to the `sch-search` directory and run:
-
-```bash
-cd sch-search
-pip install -e .
-```
-
 ## Running the Application
 
 To start the application, run:
 
 ```bash
-python index.py
+python api/routes.py
 ```
 
 The app will run locally at `localhost:3000`.
